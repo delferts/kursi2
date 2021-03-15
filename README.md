@@ -1,0 +1,2 @@
+# kursi2
+meginajums
